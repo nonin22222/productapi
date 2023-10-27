@@ -1,0 +1,8 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "computer",
+    "product_price": 10000,
+    "product_detail": "computer product_detail"
+  }
+]

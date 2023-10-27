@@ -1,0 +1,23 @@
+[
+  {
+    "review_id": 1,
+    "user_id": 1,
+    "product_id": 1,
+    "review_rating": 5,
+    "review_detail": "product good"
+  },
+  {
+    "review_id": 2,
+    "user_id": 1,
+    "product_id": 1,
+    "review_rating": 5,
+    "review_detail": "product good"
+  },
+  {
+    "review_id": 3,
+    "user_id": 1,
+    "product_id": 1,
+    "review_rating": 5,
+    "review_detail": "product good2"
+  }
+]
